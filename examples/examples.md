@@ -4,7 +4,7 @@ title: AGENTQL EXAMPLES FROM TEST REPO
 
 ## Overview
 
-Browser our opensource collection of useful example scripts and get started extracting data, scraping, and automating.
+WE NEED MORE TESTS
 
 ## Examples
 
@@ -12,7 +12,7 @@ Browser our opensource collection of useful example scripts and get started extr
 
 - [JavaScript Examples](/examples/javascript-examples)
 
-## Related Content
+## RELATES
 
 <Cards>
     <Card 
