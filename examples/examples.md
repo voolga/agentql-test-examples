@@ -10,7 +10,7 @@ WE NEED MORE TESTS
 
 - [Python Examples](/examples/python-examples)
 
-- [JavaScript Examples](/examples/javascript-examples)
+- [JavaScript Examples](/examples/js-examples)
 
 ## RELATES
 
