@@ -1,17 +1,17 @@
 ---
-title: Close a cookie dialog
-description: Close a site's dialog for rejecting/accepting cookies with AgentQL.
+title: Query a list of items
+description: How to query a list of items on the page with AgentQL.
 updated: 2025-03-05
 ---
 
-# Example script: close a cookie dialog with AgentQL
+# Example script: querying a list of items with AgentQL
 
-This example demonstrates how to use AgentQL close a site's dialog for rejecting/accepting cookies.
+This example demonstrates how to query a list of items on the page.
 
 ## Run the script
 
 - [Install AgentQL SDK](https://docs.agentql.com/javascript-sdk/installation)
-- Save this JavaScript file locally as **main.js**
+- Save this Javascript file locally as **main.js**
 - Run the following command from the project's folder:
 
 ```bash

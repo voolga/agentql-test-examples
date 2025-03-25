@@ -1,16 +1,16 @@
 ---
-title: Close a cookie dialog
-description: Close a site's dialog for rejecting/accepting cookies with AgentQL.
+title: Save and load authenticated state
+description: Save and load an authenticated state (i.e. signed-in state) with AgentQL.
 updated: 2025-03-05
 ---
 
-# Example script: close a cookie dialog with AgentQL
+# Example script: save and load authenticated state with AgentQL
 
-This example demonstrates how to use AgentQL close a site's dialog for rejecting/accepting cookies.
+This example demonstrates how to save and load a authenticated state (i.e. signed-in state) using AgentQL.
 
 ## Run the script
 
-- [Install AgentQL SDK](https://docs.agentql.com/javascript-sdk/installation)
+- [Install AgentQL SDK](https://docs.agentql.com/installation/sdk-installation)
 - Save this JavaScript file locally as **main.js**
 - Run the following command from the project's folder:
 

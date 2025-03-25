@@ -1,12 +1,12 @@
 ---
-title: Close a cookie dialog
-description: Close a site's dialog for rejecting/accepting cookies with AgentQL.
+title: Interact with YouTube and extract video information
+description: Interact with YouTube website and extract video information using AgentQL.
 updated: 2025-03-05
 ---
 
-# Example script: close a cookie dialog with AgentQL
+# Example script: interacting with YouTube website and extracting video information using AgentQL
 
-This example demonstrates how to use AgentQL close a site's dialog for rejecting/accepting cookies.
+This is an example of interacting with YouTube website and extracting video information using AgentQL.
 
 ## Run the script
 

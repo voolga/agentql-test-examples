@@ -1,12 +1,12 @@
 ---
-title: Close a cookie dialog
-description: Close a site's dialog for rejecting/accepting cookies with AgentQL.
+title: Submit form
+description: Submit form with AgentQL.
 updated: 2025-03-05
 ---
 
-# Example script: close a cookie dialog with AgentQL
+# Example script: Automating form submission using AgentQL
 
-This example demonstrates how to use AgentQL close a site's dialog for rejecting/accepting cookies.
+This is an example of automating form submission on a website using AgentQL.
 
 ## Run the script
 
@@ -17,6 +17,15 @@ This example demonstrates how to use AgentQL close a site's dialog for rejecting
 ```bash
 node main.js
 ```
+
+## Code explanation
+
+This script demonstrates how to:
+
+1. Navigate to a form page
+2. Fill out form fields using AgentQL queries
+3. Submit the form and handle the confirmation
+4. Wait for the submission to complete
 
 ## Play with the query
 

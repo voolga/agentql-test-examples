@@ -1,12 +1,12 @@
 ---
-title: Close a cookie dialog
-description: Close a site's dialog for rejecting/accepting cookies with AgentQL.
+title: Close popup windows
+description: Close modals like promotional forms and banners with AgentQL.
 updated: 2025-03-05
 ---
 
-# Example script: close a cookie dialog with AgentQL
+# Example script: closing popup windows with AgentQL
 
-This example demonstrates how to use AgentQL close a site's dialog for rejecting/accepting cookies.
+This example demonstrates how to close popup windows (like promotion form) with AgentQL.
 
 ## Run the script
 

@@ -1,21 +1,21 @@
 ---
-title: Close a cookie dialog
-description: Close a site's dialog for rejecting/accepting cookies with AgentQL.
+title: Collect paginated bookstore listing data
+description: Collect paginated bookstore listing data with AgentQL.
 updated: 2025-03-05
 ---
 
-# Example script: close a cookie dialog with AgentQL
+# Example script: Collect ecommerce data across multiple paginated webpages
 
-This example demonstrates how to use AgentQL close a site's dialog for rejecting/accepting cookies.
+This example demonstrates how to collect ecommerce data by stepping through multiple paginated webpages.
 
 ## Run the script
 
-- [Install AgentQL SDK](https://docs.agentql.com/javascript-sdk/installation)
+- [Install AgentQL SDK](https://docs.agentql.com/installation/sdk-installation)
 - Save this JavaScript file locally as **main.js**
 - Run the following command from the project's folder:
 
 ```bash
-node main.js
+ node.js
 ```
 
 ## Play with the query

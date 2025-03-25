@@ -1,12 +1,12 @@
 ---
-title: Close a cookie dialog
-description: Close a site's dialog for rejecting/accepting cookies with AgentQL.
+title: Compare product price across multiple websites
+description: Compare product prices across websites with query_data() method with AgentQL.
 updated: 2025-03-05
 ---
 
-# Example script: close a cookie dialog with AgentQL
+# Example script: comparing product price across websites with AgentQL
 
-This example demonstrates how to use AgentQL close a site's dialog for rejecting/accepting cookies.
+This example demonstrates how to compare product prices across websites with queryData() method.
 
 ## Run the script
 

@@ -1,12 +1,12 @@
 ---
-title: Close a cookie dialog
-description: Close a site's dialog for rejecting/accepting cookies with AgentQL.
+title: Get single element by prompt
+description: Use AgentQL's get_by_prompt method to retrieve an element and interact with it.
 updated: 2025-03-05
 ---
 
-# Example script: close a cookie dialog with AgentQL
+# Example script: interact with elements leveraging getByPrompt method
 
-This example demonstrates how to use AgentQL close a site's dialog for rejecting/accepting cookies.
+This is an example of levergaing getByPrompt() method to retrieve an element and interact with it using AgentQL.
 
 ## Run the script
 

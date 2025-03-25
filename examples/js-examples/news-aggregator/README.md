@@ -1,12 +1,12 @@
 ---
-title: Close a cookie dialog
-description: Close a site's dialog for rejecting/accepting cookies with AgentQL.
+title: Perform sentiment analysis
+description: Perform sentiment analysis on YouTube comments with AgentQL and OpenAI's GPT-3.5 model.
 updated: 2025-03-05
 ---
 
-# Example script: close a cookie dialog with AgentQL
+# Example script: perform sentiment analysis with AgentQL
 
-This example demonstrates how to use AgentQL close a site's dialog for rejecting/accepting cookies.
+This is an example shows how to return news headlines from a selection of URLs and save the results to a CSV file.
 
 ## Run the script
 

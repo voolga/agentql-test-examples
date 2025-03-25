@@ -1,12 +1,12 @@
 ---
-title: Close a cookie dialog
-description: Close a site's dialog for rejecting/accepting cookies with AgentQL.
+title: Collect pricing data from e-commerce websites
+description: Collect pricing data from an e-commerce website using AgentQL.
 updated: 2025-03-05
 ---
 
-# Example script: close a cookie dialog with AgentQL
+# Example script: collecting pricing data from e-commerce website using AgentQL
 
-This example demonstrates how to use AgentQL close a site's dialog for rejecting/accepting cookies.
+This is an example of collecting pricing data from e-commerce website using AgentQL.
 
 ## Run the script
 

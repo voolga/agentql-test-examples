@@ -1,5 +1,5 @@
-const { wrap, configure } = require('agentql');
-const { chromium } = require('playwright');
+const { wrap, configure } = require("agentql");
+const { chromium } = require("playwright");
 
 (async () => {
   // Configure the AgentQL API key
@@ -11,7 +11,7 @@ const { chromium } = require('playwright');
   const page = await wrap(await browser.newPage()); // Wraps the Playwright Page to access AgentQL's features.
 
   // Set the URL to the desired website
-  const URL = 'https://gov.uk/';
+  const URL = "https://gov.uk/";
   await page.goto(URL);
 
   // Define the query to find elements on the page

@@ -1,16 +1,22 @@
 ---
-title: Close a cookie dialog
-description: Close a site's dialog for rejecting/accepting cookies with AgentQL.
+title: Get an element's XPath
+description: Get XPath of an element that was fetched with AgentQL.
 updated: 2025-03-05
 ---
 
-# Example script: close a cookie dialog with AgentQL
+# Example script: get XPath of elements fetched with AgentQL
 
-This example demonstrates how to use AgentQL close a site's dialog for rejecting/accepting cookies.
+This example demonstrates how to get XPath of an element that was fetched with AgentQL.
 
 ## Run the script
 
 - [Install AgentQL SDK](https://docs.agentql.com/javascript-sdk/installation)
+- [Install Playwright Dompath](https://www.npmjs.com/package/playwright-dompath) with the following command:
+
+```bash
+npm install playwright-dompath
+```
+
 - Save this JavaScript file locally as **main.js**
 - Run the following command from the project's folder:
 

@@ -1,16 +1,16 @@
 ---
-title: Close a cookie dialog
-description: Close a site's dialog for rejecting/accepting cookies with AgentQL.
+title: Collect paginated data from HackerNews
+description: Collect paginated data from HackerNews with AgentQL.
 updated: 2025-03-05
 ---
 
-# Example script: close a cookie dialog with AgentQL
+# Example script: Collect news headlines across multiple paginated webpages
 
-This example demonstrates how to use AgentQL close a site's dialog for rejecting/accepting cookies.
+This example demonstrates how to collect HackerNews headlines across multiple paginated webpages by specifying query and number of pages to collect.
 
 ## Run the script
 
-- [Install AgentQL SDK](https://docs.agentql.com/javascript-sdk/installation)
+- [Install AgentQL SDK](https://docs.agentql.com/installation/sdk-installation)
 - Save this JavaScript file locally as **main.js**
 - Run the following command from the project's folder:
 
