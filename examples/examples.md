@@ -8,9 +8,9 @@ WE NEED MORE TESTS
 
 ## Examples
 
-- [Python Examples](/examples/python-examples)
+- [Python Examples](/examples/python)
 
-- [JavaScript Examples](/examples/js-examples)
+- [JavaScript Examples](/examples/js)
 
 ## RELATES
 
